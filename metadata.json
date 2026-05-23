@@ -1,0 +1,6 @@
+{
+  "name": "Nawaf System",
+  "description": "نظام كاشير متكامل (نواف سيستم) لإضافة وتسعير المنتجات مع قارئ باركود ذكي ومزامنة هاتفية فورية.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
